@@ -15,11 +15,48 @@ else
 
 var gradeA = true
 
-if gradeA
+if gradeA == true
 {
     print("I really like this class")
 }
 else
 {
     print("I'm not sure about coding")
+}
+
+var int = 5
+var int1 = 0
+
+if int1 > int
+{
+   print("I love car")
+}
+else
+{
+    print ("I love dogs")
+}
+
+let firststring = "I love war games"
+let secondstring = "I love war games"
+let thirdstring = firststring + secondstring
+
+if firststring == secondstring
+{
+    print(thirdstring)
+}
+else
+{
+    print("I like watching TV")
+}
+
+let darksidewin = false
+let lightsidewin = false
+
+if darksidewin == lightsidewin
+{
+    print("I love color red")
+}
+else
+{
+    print("I like to swim")
 }
