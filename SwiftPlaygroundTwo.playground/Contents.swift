@@ -49,6 +49,18 @@ else
     print("I like watching TV")
 }
 
+var Int = 5
+var Int1 = 4
+
+if int1 < int
+{
+    print("I love pizza")
+}
+else
+{
+    print("I love pizza")
+}
+
 let darksidewin = false
 let lightsidewin = false
 
@@ -59,4 +71,14 @@ if darksidewin == lightsidewin
 else
 {
     print("I like to swim")
+}
+
+var CarB = false
+if CarB == false
+{
+    print("I really like carB")
+}
+else
+{
+    print("I really like taking the bus")
 }
